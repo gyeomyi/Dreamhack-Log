@@ -26,3 +26,11 @@
 | 18 | 2026-05-05 | [session-basic](https://dreamhack.io/wargame/challenges/409) | web | 🥉B4 |
 | 19 | 2026-05-10 | [pathtraversal](https://dreamhack.io/wargame/challenges/12) | web | 🌱Sprout |
 | 20 | 2026-05-10 | [random-test](https://dreamhack.io/wargame/challenges/931) | web | 🥉B4 |
+| 21 | 2026-05-12 | [session](https://dreamhack.io/wargame/challenges/266) | web | 🌱Sprout |
+| 22 | 2026-05-13 | [rev-basic-0](https://dreamhack.io/wargame/challenges/14) | rev | 🌱Sprout |
+| 23 | 2026-05-13 | [rev-basic-1](https://dreamhack.io/wargame/challenges/15) | rev | 🌱Sprout |
+| 24 | 2026-05-29 | [rev-basic-2](https://dreamhack.io/wargame/challenges/16) | rev | 🌱Sprout |
+| 25 | 2026-05-29 | [rev-basic-3](https://dreamhack.io/wargame/challenges/17) | rev | 🌱Sprout |
+| 26 | 2026-05-31 | [rev-basic-4](https://dreamhack.io/wargame/challenges/18) | rev | 🌱Sprout |
+| 27 | 2026-05-31 | [BypassIF](https://dreamhack.io/wargame/challenges/1151) | web | 🥉B3 |
+| 28 | 2026-06-01 | [baby-linux](https://dreamhack.io/wargame/challenges/837) | web | 🥉B4 |
