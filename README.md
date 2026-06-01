@@ -18,3 +18,11 @@
 | 10 | 2026-04-15 | [🌱 simple-web-request](https://dreamhack.io/wargame/challenges/830) | web | 🌱Sprout |
 | 11 | 2026-04-15 | [xss-1](https://dreamhack.io/wargame/challenges/28) | web | 🥉B2 |
 | 12 | 2026-04-16 | [xss-2](https://dreamhack.io/wargame/challenges/268) | web | 🥉B1 |
+| 13 | 2026-04-16 | [csrf-1](https://dreamhack.io/wargame/challenges/28) | web | 🥈S4 |
+| 14 | 2026-04-16 | [csrf-2](https://dreamhack.io/wargame/challenges/269) | web | 🥉B3 |
+| 15 | 2026-04-19 | [web-ssrf](https://dreamhack.io/wargame/challenges/75) | web | 🥈S2 |
+| 16 | 2026-04-19 | [web-ssrf](https://dreamhack.io/wargame/challenges/39) | web | 🥈S3 |
+| 17 | 2026-05-04 | [cookie](https://dreamhack.io/wargame/challenges/6) | web | 🌱Sprout |
+| 18 | 2026-05-05 | [session-basic](https://dreamhack.io/wargame/challenges/409) | web | 🥉B4 |
+| 19 | 2026-05-10 | [pathtraversal](https://dreamhack.io/wargame/challenges/12) | web | 🌱Sprout |
+| 20 | 2026-05-10 | [random-test](https://dreamhack.io/wargame/challenges/931) | web | 🥉B4 |
