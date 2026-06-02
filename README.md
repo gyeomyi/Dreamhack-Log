@@ -39,4 +39,4 @@
 | 29 | 2026-06-02 | [Exercise: Welcome-Beginners](https://dreamhack.io/wargame/challenges/812) | misc | 🥉B4 | [풀이 링크](https://dreamhack.io/wargame/writeups/47197) |
 | 30 | 2026-06-02 | [dreamhack-tools-cyberchef](https://dreamhack.io/wargame/challenges/270) | misc | 🥉B4 | [풀이 링크](https://dreamhack.io/wargame/writeups/47198) |
 | 31 | 2026-06-02 | [rev-basic-5](https://dreamhack.io/wargame/challenges/19) | rev | 🥉B4 | [풀이 링크](https://dreamhack.io/wargame/writeups/47200) |
-| 32 | 2026-06-03 | [simple-operation](https://dreamhack.io/wargame/challenges/836) | rev | 🥉B4 | [풀이 링크](https://dreamhack.io/wargame/writeups/47216) |
+| 32 | 2026-06-03 | [simple-operation](https://dreamhack.io/wargame/challenges/836) | rev | 🌱Sprout | [풀이 링크](https://dreamhack.io/wargame/writeups/47216) |
