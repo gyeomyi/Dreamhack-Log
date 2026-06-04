@@ -4,7 +4,7 @@
 
 드림핵에서 푼 문제들을 기록하자!
 
-**총 푼 문제: 32개**
+**총 푼 문제: 33개**
 
 | 풀이순서 | 날짜 | 문제 이름 | 카테고리 | 난이도 | writeups |
 |---|------|-----------|----------|--------|-----|
@@ -40,3 +40,4 @@
 | 30 | 2026-06-02 | [dreamhack-tools-cyberchef](https://dreamhack.io/wargame/challenges/270) | misc | 🥉B4 | [풀이 링크](https://dreamhack.io/wargame/writeups/47198) |
 | 31 | 2026-06-02 | [rev-basic-5](https://dreamhack.io/wargame/challenges/19) | rev | 🥉B4 | [풀이 링크](https://dreamhack.io/wargame/writeups/47200) |
 | 32 | 2026-06-03 | [simple-operation](https://dreamhack.io/wargame/challenges/836) | rev | 🌱Sprout | [풀이 링크](https://dreamhack.io/wargame/writeups/47216) |
+| 33 | 2026-06-04 | [rev-basic-6](https://dreamhack.io/wargame/challenges/20) | rev | 🥉B4 | [풀이 링크](https://dreamhack.io/wargame/writeups/47236) |
